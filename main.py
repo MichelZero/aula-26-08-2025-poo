@@ -11,7 +11,7 @@ from livro import Livro
 livro_principe = Livro("O Pequeno Príncipe")
 
 # Cria o segundo objeto (instância) da classe Livro
-livro_casmurro = Livro("Dom Casmurro")
+livro_casmurro = Livro("1984")
 
 
 # 3. Chamando o método ler() para cada objeto
