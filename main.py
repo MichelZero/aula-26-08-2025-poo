@@ -2,6 +2,9 @@
 # autor: Michel
 # data: 26/08/2025
 
+# Instancie e Use Objetos `Livro`
+#Crie dois objetos diferentes da classe `Livro`, um para "O Pequeno Príncipe" e outro para "Dom Casmurro". Chame o método `ler()` para cada um deles.
+
 # importando a classe livro
 from livro import Livro
 

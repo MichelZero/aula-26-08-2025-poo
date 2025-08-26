@@ -2,6 +2,10 @@
 # autor: Michel
 # data: 26/08/2025
 
+
+# Crie uma Classe `Livro`
+# Defina uma classe `Livro` com um atributo `titulo` e um método `ler()` que imprima "Lendo [titulo do livro]".
+
 # 1. Definição da Classe Livro e seu Método ler()
 
 class Livro:
